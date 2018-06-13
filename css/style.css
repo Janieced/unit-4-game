@@ -1,0 +1,32 @@
+
+#header {
+    text-align: center;
+    color: white;
+}
+
+#wins {
+ font-size: 40px;
+ color: white;
+}
+
+#losses {
+    font-size: 40px;
+     color: white;
+}
+
+#score {
+font-size: 40px;
+color:white;
+}
+
+body {
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
